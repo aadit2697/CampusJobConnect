@@ -1,4 +1,6 @@
 # Project Overview
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/eb2a3d82-4cf3-4504-ac2f-39ba5d29f2c6">
+
 This project aims to build a system that maintains student records with  on-campus job data. Our project focuses on the efficient allocation of student hours and thus avoids occurrences like the double shifts. 
 
 ---
@@ -36,4 +38,9 @@ This project aims to build a system that maintains student records with  on-camp
 6. Supervisor: Supervisors have to report to more than one manager in a department. Each supervisor will be associated to one and only one department, but will report to multiple managers.
 
 7. Slots: Slots are associated per department. The department managers control the number of slots to add/drop for positions available in respective departments.
+
+# :triangular_ruler: ER Diagram
+
+<img width="1349" alt="image" src="https://github.com/user-attachments/assets/f4ef710f-6eb6-4618-8fe4-73be94d1d356">
+
 
